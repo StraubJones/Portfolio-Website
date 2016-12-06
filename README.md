@@ -15,7 +15,10 @@
   - Arguably a superset of accessibility, diversity in users can only exist when accessibility has been made a priority. Every failure to make a site accessible automatically limits the diversity of its user base. But above and beyond diversity of users,
   **finish**
 3. Research / Continuous Learning
-4. Adaptability
+  - Hopefully this principles section and the resources section in and of themselves are compelling evidence that I am invested in well-researched, thoroughly designed websites, where both the core concepts behind an app and the tools used within it work together to create a cohesive whole. My main research interests are those two (though not purely limited to them):
+    - New web development concepts (higher-level ideas for UX/UI, structure, design, workflow, etc.)
+    - New web development tools (specific front-end frameworks, state management methods, database management systems, object-relation mapping libraries, etc.)
+  - The philosophy behind my continuous-learning focus is a variant of the concept of growth mindset, theorized by Dr. Carol Dweck. 
 
 ## Getting Started
 
@@ -51,3 +54,5 @@ See [the `pult` docs](https://github.com/Concatapult/pult#readme) for adding add
  - A very exhaustive list of best practices: https://www.webaccessibility.com/best_practices.php
 
 #### Diversity
+
+#### Research

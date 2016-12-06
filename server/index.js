@@ -19,7 +19,7 @@ routes.get('/app-bundle.js', browserify('./client/index.js', {
 // Example endpoint (also tested in test/server/index_test.js)
 //
 routes.get('/api/tags-example', function(req, res) {
-  res.send(['node', 'express', 'browserify', 'mithril'])
+  res.send(['node', 'express', 'browserify', 'angular'])
 })
 
 //
