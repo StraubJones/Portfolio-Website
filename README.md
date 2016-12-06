@@ -44,7 +44,7 @@ No generators installed (yet). Installing one will populate this section in the 
 See [the `pult` docs](https://github.com/Concatapult/pult#readme) for adding additional modules to this boilerplate.
 
 
-### Sources
+## Sources
 #### Accessibility
  - Web Accessibility in Mind (WebAIM) Principles and Implementation of Accessible Design http://webaim.org/intro/
  - Web Accessibility Initiative (WAI) at W3C Web Content Accessibility Guidelines (WCAG) 2.0 https://www.w3.org/WAI/intro/wcag.php
