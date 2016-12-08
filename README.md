@@ -18,7 +18,7 @@
   - Hopefully this principles section and the resources section in and of themselves are compelling evidence that I am invested in well-researched, thoroughly designed websites, where both the core concepts behind an app and the tools used within it work together to create a cohesive whole. My main research interests are those two (though not purely limited to them):
     - New web development concepts (higher-level ideas for UX/UI, structure, design, workflow, etc.)
     - New web development tools (specific front-end frameworks, state management methods, database management systems, object-relation mapping libraries, etc.)
-  - The philosophy behind my continuous-learning focus is a variant of the concept of growth mindset, theorized by Dr. Carol Dweck. 
+  - The philosophy behind my continuous-learning focus is a variant of the concept of growth mindset, theorized by Dr. Carol Dweck. **FINISH**
 
 ## Getting Started
 
