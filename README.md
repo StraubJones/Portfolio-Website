@@ -5,7 +5,7 @@
 ###### The basic priorities of this site reflect my personal values for coding best practices, namely:
 
 1. Accessibility
-  - This site uses agreed-upon tenets of accessible web design as the core design principles. The basic principles used here come from Web Accessibility in Mind (WebAIM) and Web Accessibility Initiative (WAI). These can be summarized using the acronym __POUR__:
+  - This site uses agreed-upon tenets of accessible web design as the core design principles. The basic principles used here come from Web Accessibility in Mind (WebAIM) and Web Accessibility Initiative (WAI). These can be summarized using the acronym <u>**POUR**</u>:
     - **Perceivable** (especially to those with limited visual or auditory faculties)
     - **Operable** (for example, fully navigable without a mouse for those with limited motor skills)
     - **Understandable** (all content easily legible and comprehensible to as wide a variety of users as possible)
