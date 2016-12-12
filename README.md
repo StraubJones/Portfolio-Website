@@ -12,13 +12,17 @@
     - **Robust** (using widely-accepted tools to allow easy future compatibility)
   - For more information on these principles, see the resources listed under Accessibility in Sources at the end of the README. For the full list of specific web design principles I am aiming toward in this site, see specifically http://webaim.org/intro/#principles.
 2. Diversity and Inclusion
-  - Arguably a superset of accessibility, diversity in users can only exist when accessibility has been made a priority. Every failure to make a site accessible automatically limits the diversity of its user base. But above and beyond diversity of users,
-  **finish**
+  - Arguably a superset of accessibility, diversity in users can only exist when accessibility has been made a priority. Every failure to make a site accessible automatically limits the diversity of its user base. But above and beyond diversity of users, this site prioritizes diversity of ideas and diversity of tools. **Examples??**
 3. Research / Continuous Learning
   - Hopefully this principles section and the resources section in and of themselves are compelling evidence that I am invested in well-researched, thoroughly designed websites, where both the core concepts behind an app and the tools used within it work together to create a cohesive whole. My main research interests are those two (though not purely limited to them):
     - New web development concepts (higher-level ideas for UX/UI, structure, design, workflow, etc.)
     - New web development tools (specific front-end frameworks, state management methods, database management systems, object-relation mapping libraries, etc.)
-  - The philosophy behind my continuous-learning focus is a variant of the concept of growth mindset, theorized by Dr. Carol Dweck. **FINISH**
+  - The philosophy behind my continuous-learning focus is a variant of the concept of growth mindset, theorized by Dr. Carol Dweck. According to Dweck, 'growth mindset' is the belief that ability can be learned, rather than being innate. Someone who embraces this mindset in a certain aspect of life will be more likely to:
+    - Keep trying in the face of difficulty, instead of giving up
+    - Accept and learn from mistakes
+    - Listen to and incorporate negative or critical feedback
+    - Be inspired by the success of others and push themselves harder as a result
+  - The most obvious outlet for continuous learning on this site is the blog, where I will post new things I learn and new tools I've discovered, but the site itself reflects the desire to use a variety of tools and approaches to solving problems, even within the structure of a given website. **Examples??**
 
 ## Getting Started
 
@@ -56,3 +60,4 @@ See [the `pult` docs](https://github.com/Concatapult/pult#readme) for adding add
 #### Diversity
 
 #### Research
+ - 'Mindset: The New Psychology of Success' by Carol Dweck (more about her concepts at: https://www.mindsetworks.com/)
