@@ -1,5 +1,7 @@
 # J. Christian Straubhaar-Jones' Personal Website
 
+## Note: this repo is now outdated, for newest work see https://github.com/StraubJones/Portfolio
+
 ## Priorities and Values for this site
 
 ###### The basic priorities of this site reflect my personal values for coding best practices, namely:
